@@ -7,7 +7,7 @@ The database named library consists of following TABLES given below:
 5. IssueStatus
 5. ReturnStatus
 
-Data us fed to all the tables. The tables are displayed and additionally, addressed the following queries:
+Data is fed to all the tables. The tables are displayed and additionally, addressed the following queries:
 1. Retrieve the book title, category, and rental price of all available books.
 2. List the employee names and their respective salaries in descending order of salary.
 3. Retrieve the book titles and the corresponding customers who have issued those books.
